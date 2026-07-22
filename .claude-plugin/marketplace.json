@@ -1,0 +1,11 @@
+{
+  "name": "internal-tools",
+  "owner": { "name": "Weaver AI US Inc." },
+  "plugins": [
+    {
+      "name": "weaver-prd-writer-notion-sync",
+      "source": ".",
+      "description": "Write, edit, and version PRDs locally, then push to Notion when ready and pull stakeholder feedback back. Local-first iteration with intentional, git-style syncing."
+    }
+  ]
+}
